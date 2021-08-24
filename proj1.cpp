@@ -1,11 +1,10 @@
 /*
  *Name: Jenpey Chao
  *Date: 2/12/20
- *section:21
  *email: jchao1@umbc.edu
  *description: we're making a game called Fifteen. we're suppose to read a board from a txt file and be able to solve it
 */
-
+//zero is considered a blank spot
 #include <iostream>
 #include <ctime>
 #include <fstream>
